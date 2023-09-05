@@ -58,4 +58,8 @@ Let's chat tech and innovation:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirovsunnat" alt="amirovsunnat" /></a> </p>
 
+## 🌟 GitHub Commit Streak 📆🔥
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirovsunnat&theme=dark" alt="amirovsunnat" /></p>
+
 Let's turn ideas into reality together! 😄🚀
