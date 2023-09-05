@@ -42,4 +42,17 @@ Let's chat tech and innovation:
 🌐 [Stack Overflow](https://stackoverflow.com/users/21975339/sunnat-amirov)
 📧 [Email](mailto:sunnatbekamirov22@gmail.com)
 
+## 🌟 Top Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirovsunnat&theme=tokyonight)
+
+## 🌟 Profile Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirovsunnat&show_icons=true&theme=tokyonight)
+
+## 🌟 Visitor Stats
+
+<p align="center"><img src="https://profile-counter.glitch.me/amirovsunnat/count.svg" alt="amirovsunnat :: Visitor's Count" style="color: blue;" /></p>
+
+
 Let's turn ideas into reality together! 😄🚀
