@@ -37,10 +37,10 @@ I'm on a continuous journey of growth:
 
 Let's chat tech and innovation:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/sunnatbek-amirov-860307240/)
-🐦 [Twitter](https://twitter.com/AmirovSunnatbek)
-🌐 [Stack Overflow](https://stackoverflow.com/users/21975339/sunnat-amirov)
-📧 [Email](mailto:sunnatbekamirov22@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Amirov_Sunnat-blue)](https://t.me/Amirov_Sunnat)
+[![GitHub](https://img.shields.io/badge/GitHub-amirovsunnat-green)](https://github.com/amirovsunnat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SunnatAmirov-blue)](https://www.linkedin.com/in/sunnatbek-amirov-860307240)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-sunnatamirov-orange)](https://stackoverflow.com/users/21975339/sunnat-amirov?tab=profile)
 
 ## 🌟 Top Used Languages
 
@@ -54,5 +54,8 @@ Let's chat tech and innovation:
 
 <p align="center"><img src="https://profile-counter.glitch.me/amirovsunnat/count.svg" alt="amirovsunnat :: Visitor's Count" style="color: blue;" /></p>
 
+## 🌟 Github trophies 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirovsunnat" alt="amirovsunnat" /></a> </p>
 
 Let's turn ideas into reality together! 😄🚀
