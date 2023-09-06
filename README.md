@@ -4,7 +4,7 @@
 
 Welcome to my tech playground! 🚀
 
-I'm an aspiring software engineer based in [Your Location], with a passion for turning code into innovative solutions.
+I'm an aspiring software engineer based in Tashkent City, with a passion for turning code into innovative solutions.
 
 ## 🌟 About Me
 
